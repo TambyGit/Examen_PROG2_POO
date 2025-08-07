@@ -5,6 +5,6 @@ import static org.junit.Assert.assertEquals;
 public class MainTest {
     @Test
     void testMain() {
-        assertEquals("Hello World", "Hello World");
+        assertEquals("Hello World", "Hello World!");
     }
 }
